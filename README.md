@@ -1,8 +1,10 @@
-# A-B-Testing-Projects
+
 
 # Yammer A/B Testing Analysis: Publisher Update
 
 ## Overview
+Yammer is a social network for communicating with coworkers. Individuals share documents, updates, and ideas by posting them in groups. 
+
 This project involves an A/B test conducted by Yammer on its core feature, the "publisher" module, where users compose messages. The goal was to assess the redesigned version of the publisher and its impact on user engagement, with a particular focus on existing users. The analysis examines multiple engagement metrics to understand user behavior changes and validate the initial observation of a higher message posting rate in the treatment group.
 
 **Period:** June 1 to June 30  
