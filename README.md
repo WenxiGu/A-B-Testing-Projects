@@ -63,7 +63,7 @@ Separate users into new (activated after June 1) and existing (activated before 
 |--------------------|---------------|-----------------|------------|---------|
 | Average Logins     | 3.3           | 4.1             | 6.1        | 0       |
 | Avg. Engaged Days  | 3.0           | 3.6             | 5.4      | 8.6e-8    |
-| Messages Posted (only existing users)   | 2.9           | 4.1             | 5.5       | 3.2e-8    |
+| Avg. Messages Posted (only existing users)   | 2.9           | 4.1             | 5.5       | 3.2e-8    |
 
 ## Interpretation
 The new publisher module led to a statistically significant increase in login frequency, days engaged, and message posting among existing users in the treatment group, suggesting that the redesign positively impacted engagement within this cohort. These findings provide evidence supporting further adoption of the new publisher.
