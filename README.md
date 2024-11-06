@@ -59,7 +59,7 @@ Separate users into new (activated after June 1) and existing (activated before 
 - **Message Posting:** Existing users in the treatment group demonstrated a notable increase in message posts, validating the initial observation within this cohort.
 
 ## Statistical Results
-| Metric             | Control Group | Treatment Group | t_stat     | P-Value |
+| Metric             | Control Group | Treatment Group | T_Stat     | P-Value |
 |--------------------|---------------|-----------------|------------|---------|
 | Average Logins     | 3.3           | 4.1             | 6.1        | 0       |
 | Avg. Engaged Days  | 3.0           | 3.6             | 5.4      | 8.6e-8    |
