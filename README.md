@@ -68,5 +68,7 @@ Separate users into new (activated after June 1) and existing (activated before 
 ## Interpretation
 The new publisher module led to a statistically significant increase in login frequency, days engaged, and message posting among existing users in the treatment group, suggesting that the redesign positively impacted engagement within this cohort. These findings provide evidence supporting further adoption of the new publisher.
 
+For a complete report, please visit the following link: [Full Report on Mode](https://app.mode.com/editor/buttercup/reports/1af209a81736/presentation)
+
 
 
