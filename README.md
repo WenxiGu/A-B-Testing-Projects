@@ -61,7 +61,7 @@ Separate users into new (activated after June 1) and existing (activated before 
 ## Statistical Results
 | Metric             | Control Group | Treatment Group | T_Stat     | P-Value |
 |--------------------|---------------|-----------------|------------|---------|
-| Average Logins     | 3.3           | 4.1             | 6.1        | 0       |
+| Average Logins     | 3.3           | 4.1             | 6.1        | 2e-9       |
 | Avg. Engaged Days  | 3.0           | 3.6             | 5.4      | 8.6e-8    |
 | Avg. Messages Posted (only existing users)   | 2.9           | 4.1             | 5.5       | 3.2e-8    |
 
